@@ -1,4 +1,6 @@
 
+
+// PANLINDROME NUMBER LEETCODE
 var isPalindrome = function(x) {
      if( x<0)
     {
